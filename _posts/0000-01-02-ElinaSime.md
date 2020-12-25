@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Lācis kāpa ozolā, bite koda dibenā.
 Use the left arrow to go back!
